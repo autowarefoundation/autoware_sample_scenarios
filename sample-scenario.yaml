@@ -31,9 +31,9 @@ OpenSCENARIO:
     CatalogLocation: []
   RoadNetwork:
     LogicFile:
-      filepath: /home/aw/autoware_map/sample-map-planning/lanelet2_map.osm
+      filepath: /home/aw/autoware_data/maps/sample-map-planning/lanelet2_map.osm
     SceneGraphFile:
-      filepath: /home/aw/autoware_map/sample-map-planning/pointcloud_map.pcd
+      filepath: /home/aw/autoware_data/map/sample-map-planning/pointcloud_map.pcd
     TrafficSignals:
       TrafficSignalController: []
   Entities:
